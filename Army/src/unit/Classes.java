@@ -1,0 +1,15 @@
+package unit;
+
+public enum Classes {
+	SOLDIER,
+	ROGUE,
+	BERSERKER,
+	VAMPIRE,
+	WEREWOLF,
+	WIZARD,
+	HEALER,
+	PRIEST,
+	WARLOCK,
+	NECROMANCER,
+	ARCHER
+}
